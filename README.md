@@ -74,3 +74,15 @@ The Jupyter Notebook (`karate_club_assignment.ipynb`) includes:
 ├── karate_club_assignment.ipynb # Main Jupyter Notebook
 
 ├── README.md # Project documentation (this file)
+
+---
+
+## 🏁 Conclusion
+This project demonstrates how **spectral graph theory** and **modularity optimization** can uncover latent social structures from network connectivity alone.  
+Even with modest modularity (Q = 0.1643), the algorithm effectively identifies meaningful communities and highlights central figures — showing the power of spectral methods in network science.
+
+---
+
+**Submitted by:**  
+*Nikhil Verma*  
+2nd Year BS–MS Student, IISER Thiruvananthapuram  
