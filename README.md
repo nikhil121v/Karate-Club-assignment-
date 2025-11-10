@@ -71,3 +71,5 @@ The Jupyter Notebook (`karate_club_assignment.ipynb`) includes:
 ---
 
 ## 🧾 File Structure
+├── karate_club_assignment.ipynb # Main Jupyter Notebook
+├── README.md # Project documentation (this file)
