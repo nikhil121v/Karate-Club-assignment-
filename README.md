@@ -1,4 +1,3 @@
-# Karate-Club-assignment-
 # DSC212: Graph Theory  
 ### Research Assignment — *Modularity on the Karate Club Graph*  
 
@@ -31,7 +30,7 @@ To implement a **spectral modularity-based community detection algorithm** that:
 - **Graph Dataset:** Zachary’s Karate Club Graph (NetworkX built-in)
 - **Algorithm:**
   - Compute modularity matrix  
-  - Extract the **leading eigenvector** of \( B = A - \frac{k k^T}{2m} \)  
+  - Extract the **leading eigenvector** of `B = A - (k kᵀ)/(2m)`
   - Partition nodes by the sign of the eigenvector components  
   - Recurse on subcommunities as long as the **largest eigenvalue (λ₁) > 0**  
 - **Libraries Used:**  
